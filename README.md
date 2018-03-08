@@ -13,7 +13,7 @@ ________________________________________________________________________________
 Dokumentacija projekta je priložena u word dokumentu gdje je objašnjen kod i sam proces stvaranja projekta. Također je objašnjeno okruženje korišteno za izradu igre, te potrebne biblioteke kako bi se projekt mogao pokrenuti. Priložena je i prezentacija korištena pri prezentiranju završnog projekta.
 ___________________________________________________________________________________________________________________________________
 
-Priložena je konačna apk datoteka koja se koristi za instaliranje igre na mobilni Android uređaj.
+Priložena je konačna apk datoteka koja se koristi za instaliranje igre na mobilni Android uređaj. Isto tako je priložena .zip datoteka u kojoj se nalazi direktorij Hocus Pocus koji se otvara pri pokretanju Unity programa.
 
 
 
